@@ -13,6 +13,7 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
   },
   "dependencies": {
+    "@auth/d1-adapter": "^1.4.2",
     "next": "14.2.5",
     "next-auth": "^5.0.0-beta.20",
     "react": "^18",
